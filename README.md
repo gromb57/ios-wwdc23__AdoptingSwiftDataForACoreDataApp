@@ -1,5 +1,7 @@
 # Adopting SwiftData for a Core Data app
 
+[Source](https://developer.apple.com/documentation/coredata/adopting_swiftdata_for_a_core_data_app)
+
 Persist data in your app intuitively with the Swift native persistence framework.
 
 ## Overview
